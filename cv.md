@@ -36,9 +36,9 @@ Not Yet
 
 ## Education and courses
 * Kalashnikov Izhevsk State Technical University, Quality assurance
-* [https://www.udemy.com/course/webdeveloper/](адрес "HTML/CSS") 
-* [https://www.udemy.com/course/javascript-ru/](адрес "JavaScript") 
-* Git video course on youtube channel [https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb](адрес "JavaScript.ru") 
+* [HTML/CSS](https://www.udemy.com/course/webdeveloper/ "HTML/CSS") 
+* [JavaScript](https://www.udemy.com/course/javascript-ru/ "JavaScript") 
+* Git video course on youtube channel [JavaScript.ru](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb "JavaScript.ru") 
 
 ## Languages
 * Russian: native speaker
