@@ -1,2 +1,2 @@
 # rsschool-cv
-https://withoutwhale.github.io/rsschool-cv/cv
+https://withoutwhale.github.io/rsschool-cv/
